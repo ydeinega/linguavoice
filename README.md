@@ -15,17 +15,16 @@ The Capsule has **2 basic features**:
 
 
 Searching for translation
-To test this feature type: "Translate spring" (or any other word you want to translate) 
-<img width="820" alt="Screen Shot 2019-04-16 at 11 16 00 PM" src="https://user-images.githubusercontent.com/32018873/56265344-20a08200-609e-11e9-8539-73fbc7611f24.png">
+To test this feature type: "Translate spring" (or any other word you want to translate)
 
-<img width="816" alt="Screen Shot 2019-04-16 at 11 16 40 PM" src="https://user-images.githubusercontent.com/32018873/56265345-20a08200-609e-11e9-87da-fb80d16f8928.png">
 
-<img width="812" alt="Screen Shot 2019-04-16 at 11 19 21 PM" src="https://user-images.githubusercontent.com/32018873/56265346-20a08200-609e-11e9-9d67-56efda5c73cf.png">
+1st page | 2nd page | 3rd page |
+------------ | ------------- | ------|
+![spring1](https://user-images.githubusercontent.com/32018873/62656385-e98a0100-b918-11e9-92f9-81ba60e61d24.png) | ![spring2](https://user-images.githubusercontent.com/32018873/62657075-7a151100-b91a-11e9-817b-aaa555b8352f.png) | ![spring3](https://user-images.githubusercontent.com/32018873/62657173-b8123500-b91a-11e9-88e5-2d9b1b51425f.png)
 
 
 Searching for a particular meaning
-<img width="811" alt="Screen Shot 2019-04-16 at 11 35 45 PM" src="https://user-images.githubusercontent.com/32018873/56266210-87269f80-60a0-11e9-88b9-13ffdcadddcb.png">
 
-<img width="813" alt="Screen Shot 2019-04-16 at 11 35 52 PM" src="https://user-images.githubusercontent.com/32018873/56266417-ff8d6080-60a0-11e9-93fa-f65defd5002c.png">
-
-<img width="808" alt="Screen Shot 2019-04-16 at 11 36 31 PM" src="https://user-images.githubusercontent.com/32018873/56266223-8f7eda80-60a0-11e9-8687-e23e44681af2.png">
+1st meaning | 2nd meaning | 3rd meaning |
+------------ | ------------- | ------|
+![meaning1](https://user-images.githubusercontent.com/32018873/62657347-2656f780-b91b-11e9-9a30-95d0ae2e3792.png) | ![meaning2](https://user-images.githubusercontent.com/32018873/62657350-2951e800-b91b-11e9-83dc-05e0e959e877.png) | ![meaning3](https://user-images.githubusercontent.com/32018873/62657354-2bb44200-b91b-11e9-81b7-7a351996e2e8.png)
