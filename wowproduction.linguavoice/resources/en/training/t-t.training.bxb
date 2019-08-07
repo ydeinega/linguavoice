@@ -1,0 +1,10 @@
+train (t-tjjx09hdgrsz9k0jtv33g0fbl) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how to say an (apple)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966102462)
+}
+train (t-trrq8zbbgt19ka7jtjvvajgw4) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is (apple)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965924332)
+}

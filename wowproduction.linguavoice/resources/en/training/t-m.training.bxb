@@ -1,0 +1,15 @@
+train (t-m7kfx7hoxhx17c9ju8tuoegsw) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is a word for the (united nations)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966257334)
+}
+train (t-mcgnhopbj1hnsjlo96cdbkg46) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what's a (table)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965897811)
+}
+train (t-mwfrqm35i3uwb28d18yd9zb9e) {
+  utterance ("[g:SearchWord] what the phrase (last but not least)[v:Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917145163)
+}

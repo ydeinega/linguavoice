@@ -1,0 +1,45 @@
+train (t-i70mflg53ur8ntw4p528ns41v) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate the word (apple)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966298433)
+}
+train (t-i7ij5upbrlkswfjhzymqrp6ng) {
+  utterance ("[g:SearchWord] translate the phrase (last but not least)[v:Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917902761)
+}
+train (t-ibf8nhue8gocs0g6q1q20ibvr) {
+  utterance ("[g:SearchWord] what is the word for an (output)[v:Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966142202)
+}
+train (t-icn11g15o8kshv55s2v1cee8a) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what the word (weather forecast)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966761143)
+}
+train (t-invoj4199pxi76ue3ywo7bcso) {
+  utterance ("[g:SearchWord] how to say (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917936765)
+}
+train (t-ioahy0762dtno4bktq343nwf7) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is to (run out of time)[v:wowproduction.linguavoice.Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966477818)
+}
+train (t-iobk4gaonoq2p85l2abfgv11c) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] Look up (chair)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965519832)
+}
+train (t-irm8251kpa0wxtof4kcv0n6oa) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how do you say an (apricot)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966082398)
+}
+train (t-itdo2z46o6r5ea2u815wfsrk3) {
+  utterance ("[g:SearchWord] look up (last but not least)[v:Word] in dictionary")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917282381)
+}

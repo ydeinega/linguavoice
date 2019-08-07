@@ -1,0 +1,5 @@
+train (t-72iah1wn2s5hbq5ys6w3mx6hk) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how do I say an (apple)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966068421)
+}

@@ -1,0 +1,20 @@
+train (t-1enaxcevpb0v8arf295gkh6sd) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is a word for the (worst)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966174595)
+}
+train (t-1kyo3z1nlr3v5gtoas36h7dj1) {
+  utterance ("[g:SearchWord] what is the word for (last but not least)[v:Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563916920932)
+}
+train (t-1n7peg7i3ybgmph3aqpwuqn25) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the word for (check in)[v:wowproduction.linguavoice.Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965459296)
+}
+train (t-1tw4617g1hvsiyqxl2fkqmy03) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up the phrase to (get rid of something)[v:wowproduction.linguavoice.Word] in dictionary")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965811879)
+}

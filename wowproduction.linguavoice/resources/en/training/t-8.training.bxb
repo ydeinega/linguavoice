@@ -1,0 +1,20 @@
+train (t-86jldwg78yz5wjfcvma3l1a83) {
+  utterance ("[g:SearchWord] translate (last but not least)[v:Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917876230)
+}
+train (t-8cehp388qhv2vk08z0vg9rg6x) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what an (opportunity cost)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966581356)
+}
+train (t-8m9d7771e3cweu2esv56p5a4e) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does it mean to (give up on)[v:wowproduction.linguavoice.Word] something")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966442726)
+}
+train (t-8teazj2adflvsykpg29q2sxvt) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the meaning of the phrase to (give out)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966715971)
+}

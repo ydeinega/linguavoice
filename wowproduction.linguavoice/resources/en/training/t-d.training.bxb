@@ -1,0 +1,20 @@
+train (t-degd1u1rys66i5csb89g74e8h) {
+  utterance ("[g:SearchWord] what (last but not least)[v:Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917361804)
+}
+train (t-dh1z35x0h1mm78biqqb1w2nmg) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the meaning of the word the (usa)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966706740)
+}
+train (t-dirlvikk1zmjs2oqzj8rkhg7a) {
+  utterance ("[g:SearchWord] Translate to (go abroad)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905241122)
+}
+train (t-dortforugghi0x5th75ds2yl2) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate the (best)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966201140)
+}

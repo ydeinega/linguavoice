@@ -1,0 +1,30 @@
+train (t-y4jzt6ctydl29oqid4i34b27x) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up the russian translation for (last but not least)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917430445)
+}
+train (t-y93kecm43jty9qgwa2bsy5bkn) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how to I say an (assembly)[v:wowproduction.linguavoice.Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966057687)
+}
+train (t-y9x6tmrgurla7iprsze1z2rpx) {
+  utterance ("[g:SearchWord] How to say (go back up)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560817251431)
+}
+train (t-ynn802m8mow3di2pe2dyy94xl) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how do I say a (cat)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966043923)
+}
+train (t-yv262wnoaq5om8sg0lbcvkra3) {
+  utterance ("[g:SearchWord] What is the word for (internship)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560819439729)
+}
+train (t-ywyrox5wfkuzxcupntvlurpjq) {
+  utterance ("[g:SearchWord] translate (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563854262218)
+}

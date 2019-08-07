@@ -1,0 +1,16 @@
+capsule {
+  id (wowproduction.linguavoice)
+  version (0.1.1)
+  format (3)
+  targets {
+    target (bixby-mobile-en-US)
+  }
+  runtime-flags {
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+  }
+  store-sections {
+    section (EducationAndReference)
+  }
+}

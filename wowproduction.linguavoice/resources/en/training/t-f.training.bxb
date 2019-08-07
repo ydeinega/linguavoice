@@ -1,0 +1,15 @@
+train (t-fb7zay6unc0canpudpkxatn92) {
+  utterance ("[g:SearchWord] What's the word for (campground)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560819236826)
+}
+train (t-fgj22kidmfqq9daw4tshrdph4) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does it mean to (run after)[v:wowproduction.linguavoice.Word] someone or something")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966459682)
+}
+train (t-fibj9zh1jmgjn7si9wa6az5io) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the meaning of the word (spring)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966733925)
+}

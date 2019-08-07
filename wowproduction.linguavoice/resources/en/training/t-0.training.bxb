@@ -1,0 +1,15 @@
+train (t-0iasenyajdc28nltqmdhmq0k0) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does the phrase to (look up)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966545790)
+}
+train (t-0np9y5qxb9jea98hz7dsxzvjy) {
+  utterance ("[g:SearchWord] How do I say to (pick up)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905289086)
+}
+train (t-0yea7ri67rq702bgyz0v999cg) {
+  utterance ("[g:SearchWord] search for (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917553635)
+}

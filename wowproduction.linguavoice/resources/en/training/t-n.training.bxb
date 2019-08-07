@@ -1,0 +1,35 @@
+train (t-n01s7zjwcuslzz40necjk2py7) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] What is the word for (cat)[v:Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965693633)
+}
+train (t-n3w62fzbz81dnwfdr7jrijbft) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the translation of (greenhouse)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965991812)
+}
+train (t-ndx77dagtlhl9ycxzj52t0f74) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the russian translation of (apple)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965963576)
+}
+train (t-njtri93jgveve9dqakv0sqs4o) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate the word to (read)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966320044)
+}
+train (t-nwq1qcysh8bc04hy7whzbq3t8) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does an (apple)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966365347)
+}
+train (t-nxq4dkqdy51hwzdj13m11fd6b) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does it mean to (run after)[v:wowproduction.linguavoice.Word] someone")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966451548)
+}
+train (t-nzqu0ausvgxi0q7pw1hqmrtqg) {
+  utterance ("[g:SearchWord] Translate (summer)[v:Word] to Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560821702551)
+}

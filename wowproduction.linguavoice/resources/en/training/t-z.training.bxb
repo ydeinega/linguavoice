@@ -1,0 +1,20 @@
+train (t-z0hn2c8wziu4mzouit1ie5phf) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] search for (spring)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966506563)
+}
+train (t-z6liw5okpkn6y6i3nr7slhsws) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what the word (government)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966634794)
+}
+train (t-zawit90ly0z1zppj0x55od8mj) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what to (take care of)[v:wowproduction.linguavoice.Word] someone means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966595783)
+}
+train (t-ztlfct7av3gcqxgp6a8aizd4z) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does the word (happy)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966418166)
+}

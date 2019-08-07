@@ -1,0 +1,24 @@
+capsule-info {
+  display-name (LinguaVoice En-Ru Dictionary)
+  developer-name (Wowproduction, LLC.)
+  icon-asset (/icons/en_ru.png)
+  description (LinguaVoice helps you easily translate words and phrases from English into Russian. The meanings of individual words come together with their pictures, definitions and examples of usage.)
+  search-keywords {
+    keyword (dictionary)
+    keyword (English)
+    keyword (Russian)
+    keyword (language)
+    keyword (foreign)
+    keyword (translate)
+    keyword (translation)
+    keyword (meaning)
+    keyword (vocabulary)
+    keyword (word)
+  }
+  dispatch-name (Lingua Voice)
+  dispatch-aliases {
+    alias (linguavoice)
+  }
+  action-bg-color (#BF2519)
+  action-fg-color (#FFFFFF)
+}

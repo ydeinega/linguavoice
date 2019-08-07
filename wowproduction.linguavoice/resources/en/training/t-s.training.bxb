@@ -1,0 +1,10 @@
+train (t-smv01u20uw4rzly1mgplbl1s8) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is to (look after)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965939591)
+}
+train (t-sxr7q1jf8kc0gyiethm39ljom) {
+  utterance ("[g:SearchWord] How do you say (spider man)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560817080234)
+}

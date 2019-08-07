@@ -1,0 +1,30 @@
+train (t-ua2ud9mmu3l4jakmf2byxb2ro) {
+  utterance ("[g:SearchWord] How do I say (cat)[v:Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965401417)
+}
+train (t-ujrcf9oywla684cru1xpg0i51) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] search for (cat)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965827059)
+}
+train (t-uoom54r7mksneczlysaic0a9o) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] search for the (united nations)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966523028)
+}
+train (t-uou5saarcalq5y3q12f6nxtgi) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the russian translation of a (problem)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966290651)
+}
+train (t-utujtt73cfi3u83d5d9scguuu) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does a (weather forecast)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966408231)
+}
+train (t-uxp9u8521051v9fows7b9ug4o) {
+  utterance ("[g:SearchWord] look up the phrase (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917249715)
+}

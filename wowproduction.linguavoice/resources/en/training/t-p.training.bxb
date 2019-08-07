@@ -1,0 +1,20 @@
+train (t-po2p3yyb6tksx9kjl58h0m12n) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does the phrase to (get rid of)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966386025)
+}
+train (t-prth0f4fjy9z8277fq0vkbtp2) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up (situation)[v:wowproduction.linguavoice.Word] in dictionary")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965561442)
+}
+train (t-punqp30u0aemllgwsfo2k7opb) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is a (table)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965876638)
+}
+train (t-pzrn4fi6tuibip70ud3rpv8ec) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how to say a (table)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966112293)
+}

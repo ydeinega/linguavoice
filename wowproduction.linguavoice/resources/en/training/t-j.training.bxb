@@ -1,0 +1,15 @@
+train (t-j5l6a1j3akbzu91tkdxlfk9mz) {
+  utterance ("[g:SearchWord] Translate to (give up on)[v:Word] in Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905253293)
+}
+train (t-jhlq6403zo2z9k2514u7m77aq) {
+  utterance ("[g:SearchWord] Translate (give up on)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560821776012)
+}
+train (t-jom4ta2w4lofxcn83cvu4c07t) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] Look up to (get rid of)[v:wowproduction.linguavoice.Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965537516)
+}

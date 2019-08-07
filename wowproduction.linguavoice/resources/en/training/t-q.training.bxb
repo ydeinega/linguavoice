@@ -1,0 +1,15 @@
+train (t-q6i71ae5d0i5ayq6w3hhnssyk) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up an (elephant)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966209905)
+}
+train (t-q7hy2ipkeqe79vuv0ekklr06t) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] search for a (problem)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966514997)
+}
+train (t-qqhjp7wgxetdkcn2uq1uheks0) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the tranlation of the (greenhouse effect)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966018935)
+}

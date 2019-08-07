@@ -1,0 +1,25 @@
+train (t-v6hvljh6c0fxavi6xipwyhe6z) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does it mean to (get rid of)[v:wowproduction.linguavoice.Word] something")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966428480)
+}
+train (t-vcx6v9q01yfya7seelk5qdhhb) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does (wig)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966327899)
+}
+train (t-vd911lqb795mpakqmtikiow6f) {
+  utterance ("[g:SearchWord] How do you say to (run)[v:Word] in Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905318055)
+}
+train (t-vgm206ksuynz3ryu42dxmwf5w) {
+  utterance ("[g:SearchWord] How to say (winter)[v:Word] in Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560817138234)
+}
+train (t-vzqa5itljjv0l3gzosnbg32jl) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate (abroad)[v:wowproduction.linguavoice.Word] into russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965505677)
+}

@@ -1,0 +1,15 @@
+train (t-680g2yzu3i5lib5smerpg9q95) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate (last but not least)[v:wowproduction.linguavoice.Word] into russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563918233691)
+}
+train (t-6bnibpkurp8s3339zwfup9zpr) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the meaning of the word (cat sleep)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966725550)
+}
+train (t-6j31i3hsersvocqi7nedyky44) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what the phrase to (run away)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966681478)
+}

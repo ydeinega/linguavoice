@@ -1,0 +1,25 @@
+train (t-45zkkbfd84flpezbq5dms4hf5) {
+  utterance ("[g:SearchWord] How to say to (drive)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905307273)
+}
+train (t-48ljklo6qkjfoh1ez947s1rya) {
+  utterance ("[g:SearchWord] Look up (building)[v:Word] in Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560822378541)
+}
+train (t-4ktavkt865zmqdp1ak5n7vqck) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] Look up (get rid of)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965549318)
+}
+train (t-4sup8ten94y19t7ofynpopl7m) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate an (apple)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966191336)
+}
+train (t-4zqf6tuehluhb8q1eozquewdg) {
+  utterance ("[g:SearchWord] what is the meaning of (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917173805)
+}

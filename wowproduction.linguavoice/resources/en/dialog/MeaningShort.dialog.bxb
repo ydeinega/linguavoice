@@ -1,0 +1,12 @@
+dialog (Result) {
+  match {
+    wowproduction.linguavoice.MeaningShort (this) {
+      from-output: SearchWord(action)
+    } 
+  }
+  if (size(this) > 1) {
+    template("I've found a few translations for #{value(action.word)}:")
+  } else {
+    template ()
+  }
+}

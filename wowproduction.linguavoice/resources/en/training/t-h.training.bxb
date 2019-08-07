@@ -1,0 +1,20 @@
+train (t-h3vwy2cgs5n2orhyi7li7qmo0) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what to (give)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966618135)
+}
+train (t-ha598m027scj140n9ddne7vef) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate the phrase to (have fun)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966309657)
+}
+train (t-hhmawkufn0m8ee6ozkgzobpks) {
+  utterance ("[g:SearchWord] what is (last but not least)[v:Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563918156227)
+}
+train (t-hru9c6uverqnpsjg3h1yocoye) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what's a (part-time job)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965887956)
+}

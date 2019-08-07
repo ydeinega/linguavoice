@@ -1,0 +1,20 @@
+train (t-k2l4op7nib3hg6i2d1gm0qcz5) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the (united nations)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966532783)
+}
+train (t-k3fydz505szyaxhdstfeggrmx) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is (greenhouse effect)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965865638)
+}
+train (t-ka9r80rxf8zur7xi5pzna0sh0) {
+  utterance ("[g:SearchWord] what is the russian translation for (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563854533821)
+}
+train (t-krbx2srgbqs0e66pnatfwv0v7) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what (happiness)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966606174)
+}

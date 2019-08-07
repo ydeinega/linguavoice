@@ -1,0 +1,4 @@
+dialog (Progress) {
+  match: wowproduction.linguavoice.MeaningShort
+  template("Okay, looking it up in the dictionary...")
+}

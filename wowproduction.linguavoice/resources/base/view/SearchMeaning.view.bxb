@@ -1,0 +1,74 @@
+result-view {
+   match {
+    Meaning (this) {
+      from-output: SearchMeaning (action)
+    }
+   }
+  render {
+    layout {
+       section {
+         content {
+          image {
+            aspect-ratio (4:3)
+            url ("https:#{value(action.meaning.imageUrl)}")
+          }
+          partitioned{
+            content {
+              paragraph ("#{value(this.text)}") {
+                  style (Title_M)
+                  }
+              paragraph ("#{value(this.translation.text)}") {
+                style (Title_M)
+              }
+            }
+          }
+      hbox{
+        content{
+              vbox{
+                content{
+                  single-line {
+                    text {
+                      style (Detail_L_Soft)
+                      value ("Transcription:")
+                    }
+                  }
+                }
+              }
+              vbox{
+                content{
+                  single-line {
+                    text {
+                      style (Detail_L)
+                      value ("/ #{value(this.transcription)} /")
+                    }
+                  }
+                }
+              }
+            }
+          }
+          if (size(this.definition) > 0) {
+            paragraph ("Definition:") {
+              style (Detail_L_Soft)
+            }
+            paragraph ("#{value(this.definition.text)}") {
+              style (Detail_L)
+            }
+          }
+          if (size(this.examples) > 0) {
+            paragraph ("Examples:") {
+              style (Detail_L_Soft)
+            }
+            for-each (this.examples){
+              as(y) {
+                paragraph ("#{value(y.text)}") {
+                  style (Detail_L)
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+         

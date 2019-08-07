@@ -1,0 +1,10 @@
+train (t-bgprs8ccactfqx61n9h4ojr6q) {
+  utterance ("[g:SearchWord] how do I say (last but not least)[v:Word] in Russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563916783034)
+}
+train (t-bw12x5rk4k6yxb4ga2y5rkbz5) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the russian word for a (problem)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966265233)
+}

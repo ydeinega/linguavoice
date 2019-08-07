@@ -1,0 +1,35 @@
+train (t-563erhbf8mmaloo0ijyve4ju6) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up what a (cup)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966771666)
+}
+train (t-5d93nq6q7fmc8f1io4n7xge79) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does a (table)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966396274)
+}
+train (t-5l2tu33jvn8moe00df5qrgd1h) {
+  utterance ("[g:SearchWord] What's the word for (give up on)[v:Word] in Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560819381265)
+}
+train (t-5mcvprwl0u5454elyfffsfy42) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] tell me what an (award)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966743362)
+}
+train (t-5ncdcsb0xtf33vkasc68uz7gv) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up the word (lonely)[v:wowproduction.linguavoice.Word] in dictionary")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965755076)
+}
+train (t-5of5w0fd373j85sg6nfh8hjvt) {
+  utterance ("[g:SearchWord] How to say to (go back up)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905298813)
+}
+train (t-5ypahyx44vs4xw1t7or5t584j) {
+  utterance ("[g:SearchWord] what is the meaning of the phrase (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917213447)
+}

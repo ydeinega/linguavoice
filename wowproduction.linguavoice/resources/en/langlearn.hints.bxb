@@ -1,0 +1,7 @@
+hints {
+  uncategorized {
+    utterance (Translate spring.)
+    utterance (How do I say last but not least in Russian?)
+    utterance (What is the word for goodbye in Russian?)
+  }
+}

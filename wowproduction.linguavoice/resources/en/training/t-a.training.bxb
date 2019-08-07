@@ -1,0 +1,35 @@
+train (t-a0j5mmhn0oxo4u9ou08lxrg0q) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how do you say the (best)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966094057)
+}
+train (t-abaugvmc146r0xkfxxco9nv61) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up a (bedroom)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966217784)
+}
+train (t-agyfixpaghjhzisy8668pct3k) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate a (chair)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966183041)
+}
+train (t-ahji8d46l4jr5bzzugp5cnfbp) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up the russian word for (friend)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965785003)
+}
+train (t-artysl09i43td25lqx0f7gp3c) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is a word for a (chair)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966164392)
+}
+train (t-au6t1qwvryt6c0otfd1m62w9c) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what a (problem)[v:wowproduction.linguavoice.Word] means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966557633)
+}
+train (t-awoma65mlzqdd27fpga08mmt8) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what the phrase to (look after)[v:wowproduction.linguavoice.Word] someone means")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966780812)
+}

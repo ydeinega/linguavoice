@@ -1,0 +1,15 @@
+train (t-3tvutxm56drh5527eijuddr9h) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the russian word for (weather)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965769917)
+}
+train (t-3x55804cl08xvklrrrb90n0sq) {
+  utterance ("[g:SearchWord] look up (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917023041)
+}
+train (t-3xxri1nyiu32kpejlpqxnfr9q) {
+  utterance ("[g:SearchWord] what is the translation for (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917507808)
+}

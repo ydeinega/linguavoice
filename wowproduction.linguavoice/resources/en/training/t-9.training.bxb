@@ -1,0 +1,25 @@
+train (t-92nsk8cacqx9wsa5ymu4j3cx6) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] translate the phrase (last but not least)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917850811)
+}
+train (t-9apcho07j1c07qzot2owh9asz) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up to (get rid of something)[v:wowproduction.linguavoice.Word] in dictionary")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965729535)
+}
+train (t-9awihw60qkmp4wl69mh14wuqr) {
+  utterance ("[g:SearchWord] Translate (cat sleep)[v:Word] to Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560821749600)
+}
+train (t-9equ3yixb80pz57xusqd5mj0f) {
+  utterance ("[g:SearchWord] what does the phrase (last but not least)[v:Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563916824625)
+}
+train (t-9jop6fwuytka0j22n956l1ild) {
+  utterance ("[g:SearchWord] Look up to (run after)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905228617)
+}

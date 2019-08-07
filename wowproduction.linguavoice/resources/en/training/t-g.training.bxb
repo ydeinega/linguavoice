@@ -1,0 +1,15 @@
+train (t-gecejv2yvbvms52xxl8u4e2pq) {
+  utterance ("[g:SearchWord] what is (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563918179973)
+}
+train (t-go238t2b2o9osqa2srpmjjghx) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the word for the (united nations)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966249129)
+}
+train (t-gtebbt96gjlta5ydz5jkxqf3x) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is an (apple)[v:wowproduction.linguavoice.Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965911681)
+}

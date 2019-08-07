@@ -1,0 +1,35 @@
+result-view {
+  match: MeaningShort (meanings)
+  render {
+    if (size(meanings) > 1) {
+      layout {
+        section {
+          content {
+            for-each (meanings) {
+              as (item) {
+                layout-macro (meaning-in-list) {
+                  param (meaning) {
+                    expression (item)
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  refresh {
+    if (size(meanings) == 1) {
+      spec {
+        delay-seconds (0.0001)
+        with-request {
+          intent {
+            goal: Meaning
+            value: $expr(meanings)
+          }
+        }
+      }
+    }
+  }
+}

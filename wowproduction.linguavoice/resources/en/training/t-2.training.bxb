@@ -1,0 +1,25 @@
+train (t-2kg6op9eog77wni8mzni27o0p) {
+  utterance ("[g:SearchWord] how do I say (last but not least)[v:Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563916858764)
+}
+train (t-2ncyh575z2bj8cmprdibdu8j4) {
+  utterance ("[g:SearchWord] look up the phrase (last but not least)[v:Word] in dictionary")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917313806)
+}
+train (t-2ogm9gvvmktxx6ca1983935tn) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does (greenhouse effect)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966339866)
+}
+train (t-2sclnldxy3qa7i04l96nfuedz) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is a russian word for an (apple)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966278425)
+}
+train (t-2zx3k4q9sy7df36rjijm72scc) {
+  utterance ("[g:SearchWord] what does (last but not least)[v:Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563916979702)
+}

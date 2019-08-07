@@ -1,0 +1,59 @@
+layout-macro-def (meaning-in-list) {
+  params {
+    param (meaning) {
+      type (MeaningShort)
+      min (Required) max (One)
+    }
+  }
+  content {
+    image-card {
+      aspect-ratio (4:3)
+      title-area {
+        halign (Start)
+        slot1 {
+          text {
+            value ("#{value(meaning.translation.text)}")
+            style (Title_M)
+          }
+        }
+        slot2 {
+          paragraph {
+            value ("#{value(meaning.translation.note)}")
+            style (Title_XS)
+          }
+        }
+      }
+      image-url ("https:#{value(meaning.imageUrl)}")
+      on-click {
+        intent {
+          goal: SearchMeaning
+          value: $expr(meaning)
+        }
+      }
+    }
+  }
+}
+    
+    
+  //   cell-card {
+  //     slot1 {
+  //       image {
+  //         url ("https:#{value(meaning.previewUrl)}")
+  //         shape (Square)
+  //       }
+  //     }
+  //     slot2 {
+  //       content {
+  //         order (PrimarySecondary)
+  //         primary ("#{value(meaning.translation.text)}")
+  //         secondary ("#{value(meaning.translation.note)}")
+  //       }
+  //     }
+  //     on-click {
+  //       intent {
+  //         goal: SearchMeaning
+  //         value: $expr(meaning)
+  //       }
+  //     }
+  //   }
+  // }

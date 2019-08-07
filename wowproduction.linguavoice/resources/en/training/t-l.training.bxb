@@ -1,0 +1,30 @@
+train (t-l5k5ryjis2e97npkxjsqbhops) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] search for the word (luxury)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965853251)
+}
+train (t-l9kwj5f3ry2ilgn4qk0tqn5mt) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what does the (global warming)[v:wowproduction.linguavoice.Word] mean")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966356554)
+}
+train (t-ldyw1pnvfcb5je4t0bfdwy8to) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the russian translation of an (apple)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965979106)
+}
+train (t-llvbsodnm2j1n7foo115jslbd) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] look up the (best)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966229689)
+}
+train (t-lnxsi41v1hzfc73xw092eio69) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] how do I say (last but not least)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966696934)
+}
+train (t-luxphtinpplcvtjx4fl1kblhq) {
+  utterance ("[g:SearchWord] How to say (summer)[v:Word]")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560817196759)
+}

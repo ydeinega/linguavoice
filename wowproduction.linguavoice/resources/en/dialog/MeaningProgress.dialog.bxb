@@ -1,0 +1,4 @@
+dialog (Progress) {
+  match: wowproduction.linguavoice.Meaning
+  template()
+}

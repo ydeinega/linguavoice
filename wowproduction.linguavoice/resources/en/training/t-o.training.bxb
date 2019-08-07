@@ -1,0 +1,20 @@
+train (t-oft21qyc6ip10cfcbwuaekmvj) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] what is the word for the (best)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560966156068)
+}
+train (t-otmxym8viu3150u4n0nz5x3f5) {
+  utterance ("[g:SearchWord] What is the word for to (run)[v:Word] in Russian")
+  plan (Y2BmUCzISaxML8ovzUvRy0nMS89JTSzK0/NNTczLzEsPzsgvKmGQx6okGEgmZ4TnF6UwSGJVAJZiYmAEYgYgycgAAlA+AA==)
+  last-modified (1560905267547)
+}
+train (t-ovtaziyy0qiw90qlx1uppntj4) {
+  utterance ("[g:SearchWord] look up (last but not least)[v:Word] in russian")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1563917056489)
+}
+train (t-oyi8wge22yyfyshql1wg1zb3t) {
+  utterance ("[g:wowproduction.linguavoice.SearchWord] Translate (tree)[v:wowproduction.linguavoice.Word]")
+  plan (Y2BmUCvPLy8oyk8pTS7JzM/Ty8nMSy9NLMvPTE7V801NzANygzPyi0oYVHCrC05NLErOCM8vSmGQw60KLM/EwAjEDECSkQEEoHwA)
+  last-modified (1560965476171)
+}
